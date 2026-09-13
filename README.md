@@ -22,6 +22,7 @@ see [The RDP client, written here](https://github.com/andrewtheguy/remotex/blob/
 | [MS-RDPECLIP][eclip] | Clipboard Virtual Channel Extension | Clipboard | April 23, 2024 | [PDF](MS-RDPECLIP.pdf) |
 | [MS-RDPEA][ea] | Audio Output Virtual Channel Extension | Sound | April 23, 2024 | [PDF](MS-RDPEA.pdf) |
 | [MS-RDPEFS][efs] | File System Virtual Channel Extension | The `rdpdr` channel sound redirection needs | April 23, 2024 | [PDF](MS-RDPEFS.pdf) |
+| [MS-RDPECAM][ecam] | Video Capture Virtual Channel Extension | Camera redirection | April 23, 2024 | [PDF](MS-RDPECAM.pdf) |
 
 The release date is the one printed on each PDF's title page.
 
@@ -58,3 +59,4 @@ a third party's conversion: the PDF is what to cite.
 [eclip]: https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-rdpeclip/fb9b7e0b-6db4-41c2-b83c-f889c1ee7688
 [ea]: https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-rdpea/bea2d5cf-e3b9-4419-92e5-0e074ff9bc5b
 [efs]: https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-rdpefs/34d9de58-b2b5-40b6-b970-f82d4603bdb5
+[ecam]: https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-rdpecam/92af6790-b79c-4813-9c07-7c545bed0242
