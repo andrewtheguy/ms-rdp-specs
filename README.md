@@ -1,13 +1,13 @@
 # Microsoft protocol specifications
 
-The Open Specifications [remotex](https://github.com/andrewtheguy/remotex)'s RDP
+The Open Specifications [zdesk](https://github.com/andrewtheguy/zdesk)'s RDP
 client (`src/rdp_client/`) is written against, kept here as the PDFs Microsoft
 publishes, because a published revision can change or its download link can move,
 and as Markdown, because a PDF has to be converted to text every time it is read.
 Microsoft's own page for each spec is the canonical source and lists every earlier
 revision; check it before relying on a detail here being current. FreeRDP remains
 the reference for what a real Windows host does where a spec is silent or wrong —
-see [The RDP client, written here](https://github.com/andrewtheguy/remotex/blob/main/docs/rdp-client.md).
+see [The RDP client, written here](https://github.com/andrewtheguy/zdesk/blob/main/docs/rdp-client.md).
 
 | Spec | Title | Used for | Release | Copy |
 | --- | --- | --- | --- | --- |
