@@ -25,6 +25,9 @@ see [The RDP client, written here](https://github.com/andrewtheguy/zdesk/blob/ma
 | [MS-RDPEFS][efs] | File System Virtual Channel Extension | The `rdpdr` channel sound redirection needs | April 23, 2024 | [PDF](MS-RDPEFS.pdf) · [Markdown](MS-RDPEFS.md) |
 | [MS-RDPECAM][ecam] | Video Capture Virtual Channel Extension | Camera redirection | April 23, 2024 | [PDF](MS-RDPECAM.pdf) · [Markdown](MS-RDPECAM.md) |
 | [MS-RDPEAI][eai] | Audio Input Redirection Virtual Channel Extension | Microphone redirection | April 23, 2024 | [PDF](MS-RDPEAI.pdf) · [Markdown](MS-RDPEAI.md) |
+| [MS-RDPEV][ev] | Video Redirection Virtual Channel Extension | Reference: a host player's compressed media passed to the client (hosts up to Windows 8.1) | April 23, 2024 | [PDF](MS-RDPEV.pdf) · [Markdown](MS-RDPEV.md) |
+| [MS-RDPEVOR][evor] | Video Optimized Remoting Virtual Channel Extension | Reference: a video region the host encodes as its own H.264 stream | April 23, 2024 | [PDF](MS-RDPEVOR.pdf) · [Markdown](MS-RDPEVOR.md) |
+| [MS-RDPEGT][egt] | Geometry Tracking Virtual Channel Extension | Reference: where an MS-RDPEVOR stream is drawn | April 23, 2024 | [PDF](MS-RDPEGT.pdf) · [Markdown](MS-RDPEGT.md) |
 
 The release date is the one printed on each PDF's title page.
 
@@ -94,3 +97,6 @@ The older `winprotocoldoc.blob.core.windows.net` archive links answer HTTP 409.
 [efs]: https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-rdpefs/34d9de58-b2b5-40b6-b970-f82d4603bdb5
 [ecam]: https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-rdpecam/92af6790-b79c-4813-9c07-7c545bed0242
 [eai]: https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-rdpeai/d04ffa42-5a0f-4f80-abb1-cc26f71c9452
+[ev]: https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-rdpev/ff2a9f63-cbcc-4615-849f-03752a2b440b
+[evor]: https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-rdpevor/a9947d55-9408-4cf8-b113-555b436bd3ce
+[egt]: https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-rdpegt/64dd4742-7a1c-47a7-ad23-d1f696d8781d
